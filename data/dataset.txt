@@ -1,0 +1,1 @@
+El dataset es Intel Image Classification, no se puede subir a GitHub por pesar mas de 100MB
